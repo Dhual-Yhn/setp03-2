@@ -8,7 +8,7 @@
 # Descripcion:
 #
 # Implemente la búsqueda binaria
-# de forma recursiva en Python
+# de forma iterativa en Python
 # para localizar un elemento dentro
 # de una lista.
 #
