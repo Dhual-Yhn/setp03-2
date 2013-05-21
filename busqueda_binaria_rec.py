@@ -24,7 +24,6 @@ def BinarySearch(A, valor):
             return None
     else:
        medio = int(len(A)/2)
-       print ("Medio",medio," ", A[medio]," ", len(A))
        if(A[medio] > valor):
            return BinarySearch(A[0:medio],valor)
        else:
