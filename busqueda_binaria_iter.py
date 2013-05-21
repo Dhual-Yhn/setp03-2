@@ -27,7 +27,6 @@ def BinarySearch(A, valor):
        final = len(A)
        while(inicio < final):
             medio = int((inicio+final)/2)
-            print ("Medio",medio," ", A[medio]," ", inicio," ", final)
             if(A[medio] > valor):
                 final = medio
             elif(A[medio] == valor):
