@@ -1,5 +1,5 @@
 # Set de problemas #4
-# Problema 1.
+# Problema 2.
 # Profesor: Igor Caracci
 # Profesor(Ayudante): Andres Caro
 # Universidad de Santiago de Chile
